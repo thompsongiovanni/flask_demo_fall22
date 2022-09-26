@@ -1,0 +1,15 @@
+#topLine {
+    color: white;
+    background-color: teal;
+    margin-top: 40px;
+    text-align: center;
+    letter-spacing: -2px
+}
+
+p {
+    color: red;
+}
+
+h3 {
+    color: teal;
+}
